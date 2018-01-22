@@ -653,3 +653,8 @@
 * [Awesome SQLite](https://github.com/planetopendata/awesome-sqlite) 
 * [Awesome Python](https://github.com/vinta/awesome-python/blob/master/README.md)
 * [GeoRails](http://daniel-azuma.com/articles/georails/)
+
+## ETL
+* [FME](https://www.safe.com/)
+* [Spatial Data Integrator](http://www.spatialdataintegrator.com/)
+* [GeoKettle](http://www.spatialytics.org/projects/geokettle/)
